@@ -1,0 +1,6 @@
+{
+  "name": "RightsFix AI — UK Everyday Justice Navigator",
+  "description": "RightsFix AI is a UK rights navigator to know your rights and fix what's wrong in plain language. General information, not legal advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
